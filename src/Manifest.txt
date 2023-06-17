@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: 11.0.16.1 (Microsoft)
+Main-Class: Main
+Class-Path: C:\Program Files\Java\jdk-20\bin
